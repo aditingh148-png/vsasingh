@@ -1,0 +1,6 @@
+{
+  "name": "VSASINGH - Official News & Reader App",
+  "description": "Official mobile and web application for vsasingh.com – Useful, informative, and reader-focused news, culture, technology, biographies, and trends in Hindi and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
